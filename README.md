@@ -24,4 +24,4 @@ npm run build
 
 ## Related
 
-* [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+* [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU) 📺

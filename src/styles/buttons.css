@@ -1,0 +1,27 @@
+.btn {
+  font-size: 1em;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px 10px;
+  color: #444;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #e0e0e0;
+  cursor: pointer;
+}
+
+.btn:active {
+  background-color: #d0d0d0;
+}
+
+.btn-lg {
+  font-size: 1.25em;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}

@@ -20,14 +20,9 @@ module.exports = {
       },
       {
         test: /\.css$/,
-        use: [
-          'style-loader',
-          'css-loader'
-        ]
+        use: ['style-loader', 'css-loader']
       }
     ]
   },
-  plugins: [
-    new webpack.optimize.UglifyJsPlugin()
-  ]
-}
+  plugins: [new webpack.optimize.UglifyJsPlugin()]
+};

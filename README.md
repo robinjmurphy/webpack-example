@@ -1,4 +1,4 @@
-# webpack-playground
+# webpack-example
 
 > A very simple Webpack example 📦
 
